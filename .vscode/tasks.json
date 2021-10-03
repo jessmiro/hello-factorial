@@ -12,7 +12,7 @@
 				"-Wno-sign-compare",
 				"*.cpp",
 				"-o",
-				"${fileDirname}/${fileBasenameNoExtension}"
+				"${fileDirname}/${fileBasenameNoExtension}.out"
 			],
 			"options": {
 				"cwd": "${workspaceFolder}"
